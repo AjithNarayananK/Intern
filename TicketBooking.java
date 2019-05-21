@@ -1,6 +1,5 @@
 package ticketbooking;
 
-
 import java.util.Scanner;
 
 public class CinemaBooking {
