@@ -1,6 +1,6 @@
 package ticketbooking;
 
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class CinemaBooking {
@@ -8,7 +8,6 @@ public class CinemaBooking {
 	
 	Scanner input = new Scanner(System.in);
 	
-	int[] SeatNo = new int[30];
 	int Seats;
 	int YesOrNo = 1;
 	int SeatCounter = 1;
